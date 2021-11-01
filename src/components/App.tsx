@@ -1,7 +1,8 @@
 import React from 'react';
+import { HomePage } from '../pages/home-page';
 
 const App: React.FC = () => (
-  <>Hello World !</>
+  <HomePage />
 );
 
 export default App;
